@@ -6,8 +6,8 @@
 # Your Student ID Number: 03230157
 ################################
 # REFERENCES
-# https://ioflood.com/blog/python-sum-list-how-to-calculate-the-sum-of-the-elements-in-a-list/ 
-# Used general Python documentation and knowledge.
+# https://www.youtube.com/watch?v=WwC3Vy9Sv58
+# https://www.youtube.com/watch?v=Uh2ebFW8OYM
 ################################
 # SOLUTION
 # Your Solution Score: The total sum of the given input file 157.txt is 493423.
