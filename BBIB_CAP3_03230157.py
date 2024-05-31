@@ -1,6 +1,6 @@
 
 ################################
-# Github Repo link: https://github.com/YourUsername/YourStudentNumber_BIA101_CAP3
+# Github Repo link: https://github.com/Yangdema/03230157_BIA101_CAP3
 # Your Name: Lhamyang Dema
 # Your Section: BBI "B"
 # Your Student ID Number: 03230157
